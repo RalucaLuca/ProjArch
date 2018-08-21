@@ -13,6 +13,8 @@ int main()
 	std::cout<<"Baza numarului este: ";
 	std::cin>> baza;
 
+	std::cout << "Test";
+
 	std::cout << Utils::f2(numar, baza);
 	return 0;
 
